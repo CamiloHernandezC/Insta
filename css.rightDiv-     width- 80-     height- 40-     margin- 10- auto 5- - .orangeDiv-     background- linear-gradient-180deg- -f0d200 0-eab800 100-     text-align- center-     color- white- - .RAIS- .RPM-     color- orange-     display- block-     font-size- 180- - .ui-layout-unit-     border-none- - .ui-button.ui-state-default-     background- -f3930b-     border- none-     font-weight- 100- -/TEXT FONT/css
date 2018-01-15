@@ -1,0 +1,32 @@
+.rightDiv{
+    width: 80%;
+    height: 40%;
+    margin: 10% auto 5%;
+}
+.orangeDiv{
+    background: linear-gradient(180deg, #f0d200 0%,#eab800 100%);
+    text-align: center;
+    color: white;
+}
+.RAIS, .RPM{
+    color: orange;
+    display: block;
+    font-size: 180%;
+}
+.ui-layout-unit{
+    border:none;
+}
+.ui-button.ui-state-default{
+    background: #f3930b;
+    border: none;
+    font-weight: 100;
+}
+/*TEXT FONT*/
+.fv-text{
+    font-size: 80%;
+    font-weight: bold;
+}
+.advise-text{
+    font-size: 70%;
+    font-weight: bold;
+}
